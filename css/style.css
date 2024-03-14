@@ -181,7 +181,7 @@ video {
   }
   .vert {
     width: calc((100% - 50px) / 2);
-    height: fit-content;
+    height: intrinsic;
   }
 }
 
