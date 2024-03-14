@@ -120,7 +120,7 @@ video {
     flex-direction: column;
     justify-content: space-between;
     /* background-color: rgb(51, 248, 127); */
-    /* padding-right: 0; */
+    padding-right: 0;
     height: 100vh;
     overflow-y: scroll;
     -ms-overflow-style: none; /* Internet Explorer 10+ */
